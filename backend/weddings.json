@@ -1,0 +1,580 @@
+{
+  "eafe5ff0-4aea-4d6a-a705-aaab655595ed": {
+    "id": "eafe5ff0-4aea-4d6a-a705-aaab655595ed",
+    "user_id": "78ab1adb-86bf-4575-8655-93a0d581c234",
+    "couple_name_1": "Sarah",
+    "couple_name_2": "Michael",
+    "wedding_date": "2025-06-15",
+    "venue_name": "Sunset Garden Estate",
+    "venue_location": "Sunset Garden Estate \u2022 Napa Valley, California",
+    "their_story": "We can't wait to celebrate our love story with the people who matter most to us. Join us for an unforgettable evening of joy, laughter, and new beginnings.",
+    "story_timeline": [
+      {
+        "year": "2019",
+        "title": "First Meeting",
+        "description": "We met at a coffee shop in downtown San Francisco on a rainy Tuesday morning. Sarah ordered a lavender latte, and Michael couldn't stop staring at her beautiful smile.",
+        "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=600&h=400&fit=crop"
+      },
+      {
+        "year": "2020",
+        "title": "First Date",
+        "description": "Our first official date was a sunset picnic in Golden Gate Park. We talked for hours about our dreams, travels, and favorite books under the stars.",
+        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=600&h=400&fit=crop"
+      },
+      {
+        "year": "2021",
+        "title": "Moving In Together",
+        "description": "After a year of long-distance dating, we decided to take the next step and move in together. Our first apartment was tiny but filled with so much love.",
+        "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=400&fit=crop"
+      },
+      {
+        "year": "2023",
+        "title": "The Proposal",
+        "description": "Michael proposed during our vacation in Santorini, Greece. As the sun set over the Aegean Sea, he got down on one knee with Sarah's grandmother's ring.",
+        "image": "https://images.unsplash.com/photo-1597248374161-426f3d6f1f6b?w=600&h=400&fit=crop"
+      },
+      {
+        "year": "2025",
+        "title": "Our Wedding Day",
+        "description": "And now, we're ready to say 'I do' surrounded by our family and friends. This is just the beginning of our beautiful journey together.",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&h=400&fit=crop"
+      }
+    ],
+    "schedule_events": [
+      {
+        "time": "2:00 PM",
+        "title": "Guests Arrival & Welcome",
+        "description": "Please arrive by 2:00 PM for welcome drinks and mingling before the ceremony begins.",
+        "location": "Sunset Garden Estate - Main Entrance",
+        "icon": "Users",
+        "duration": "30 minutes"
+      },
+      {
+        "time": "2:30 PM",
+        "title": "Pre-Ceremony Music",
+        "description": "Enjoy live acoustic music as guests are seated for the ceremony.",
+        "location": "Garden Ceremony Space",
+        "icon": "Music",
+        "duration": "30 minutes"
+      },
+      {
+        "time": "3:00 PM",
+        "title": "Wedding Ceremony",
+        "description": "The main event! Sarah and Michael exchange vows in our beautiful garden setting.",
+        "location": "Sunset Garden Estate - Ceremony Garden",
+        "icon": "Calendar",
+        "duration": "45 minutes",
+        "highlight": true
+      },
+      {
+        "time": "3:45 PM",
+        "title": "Cocktail Hour & Photos",
+        "description": "Celebrate with signature cocktails while the wedding party takes photos.",
+        "location": "Terrace & Garden Areas",
+        "icon": "Camera",
+        "duration": "1 hour 15 minutes"
+      },
+      {
+        "time": "5:00 PM",
+        "title": "Reception Dinner",
+        "description": "Join us for a three-course dinner featuring locally sourced ingredients.",
+        "location": "Grand Ballroom",
+        "icon": "Utensils",
+        "duration": "2 hours"
+      },
+      {
+        "time": "7:30 PM",
+        "title": "First Dance & Toasts",
+        "description": "Watch the newlyweds' first dance followed by heartfelt toasts from family and friends.",
+        "location": "Grand Ballroom",
+        "icon": "Music",
+        "duration": "30 minutes"
+      },
+      {
+        "time": "8:00 PM",
+        "title": "Dancing & Celebration",
+        "description": "Dance the night away with live music and DJ entertainment.",
+        "location": "Grand Ballroom & Terrace",
+        "icon": "Music",
+        "duration": "4 hours"
+      }
+    ],
+    "gallery_photos": [
+      {
+        "id": 1,
+        "src": "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "Engagement Session"
+      },
+      {
+        "id": 2,
+        "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop",
+        "category": "travel",
+        "title": "Paris Adventure"
+      },
+      {
+        "id": 3,
+        "src": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "Golden Hour"
+      },
+      {
+        "id": 4,
+        "src": "https://images.unsplash.com/photo-1597248374161-426f3d6f1f6b?w=800&h=600&fit=crop",
+        "category": "travel",
+        "title": "Santorini Sunset"
+      },
+      {
+        "id": 5,
+        "src": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop",
+        "category": "family",
+        "title": "Family Gathering"
+      },
+      {
+        "id": 6,
+        "src": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=800&h=600&fit=crop",
+        "category": "friends",
+        "title": "With Our Gang"
+      },
+      {
+        "id": 7,
+        "src": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&h=600&fit=crop",
+        "category": "engagement",
+        "title": "Candid Moments"
+      },
+      {
+        "id": 8,
+        "src": "https://images.unsplash.com/photo-1594736797933-d0c4a30e71a0?w=800&h=600&fit=crop",
+        "category": "travel",
+        "title": "Beach Getaway"
+      }
+    ],
+    "bridal_party": [
+      {
+        "name": "Emily Johnson",
+        "role": "Maid of Honor",
+        "relationship": "Sister & Best Friend",
+        "image": "https://images.unsplash.com/photo-1494790108755-2616b612b734?w=400&h=400&fit=crop&crop=face",
+        "description": "Sarah's older sister and lifelong confidante. Emily has been there through every milestone and couldn't be more excited to stand by Sarah's side."
+      },
+      {
+        "name": "Jessica Chen",
+        "role": "Bridesmaid",
+        "relationship": "College Roommate",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+        "description": "Met Sarah in freshman year and they've been inseparable ever since. Jessica brings laughter and adventure to every situation."
+      },
+      {
+        "name": "Amanda Rodriguez",
+        "role": "Bridesmaid",
+        "relationship": "Work Best Friend",
+        "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop&crop=face",
+        "description": "Sarah's partner-in-crime at work who became family. Amanda is known for her infectious smile and unwavering loyalty."
+      },
+      {
+        "name": "Sophie Williams",
+        "role": "Bridesmaid",
+        "relationship": "Childhood Friend",
+        "image": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe?w=400&h=400&fit=crop&crop=face",
+        "description": "Friends since elementary school, Sophie knows all of Sarah's secrets and dreams. Their friendship has stood the test of time."
+      }
+    ],
+    "groom_party": [
+      {
+        "name": "David Thompson",
+        "role": "Best Man",
+        "relationship": "Brother & Confidant",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "description": "Michael's younger brother and best friend. David has always looked up to Michael and is honored to be his best man on this special day."
+      },
+      {
+        "name": "Ryan Mitchell",
+        "role": "Groomsman",
+        "relationship": "College Buddy",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+        "description": "Michael's college roommate and adventure partner. Ryan introduced Michael to rock climbing and they've been conquering peaks together ever since."
+      },
+      {
+        "name": "James Park",
+        "role": "Groomsman",
+        "relationship": "Work Colleague",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+        "description": "Started as colleagues but quickly became close friends. James is Michael's go-to person for both professional advice and weekend golf games."
+      },
+      {
+        "name": "Alex Turner",
+        "role": "Groomsman",
+        "relationship": "Childhood Friend",
+        "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=400&h=400&fit=crop&crop=face",
+        "description": "Friends since they were kids in the same neighborhood. Alex and Michael have shared countless memories and adventures growing up together."
+      }
+    ],
+    "registry_items": [
+      {
+        "store": "Williams Sonoma",
+        "description": "For all our kitchen and cooking needs as we start our married life together.",
+        "url": "https://www.williams-sonoma.com",
+        "icon": "Coffee",
+        "color": "#E8B4B8"
+      },
+      {
+        "store": "Crate & Barrel",
+        "description": "Home essentials and beautiful pieces to make our house a home.",
+        "url": "https://www.crateandbarrel.com",
+        "icon": "Home",
+        "color": "#A8C8EC"
+      },
+      {
+        "store": "Amazon",
+        "description": "Everything else we need for our new adventure together.",
+        "url": "https://www.amazon.com",
+        "icon": "Gift",
+        "color": "#F4C2A1"
+      }
+    ],
+    "honeymoon_fund": {
+      "title": "Honeymoon Fund",
+      "description": "Help us create unforgettable memories on our honeymoon to Japan. Every contribution, big or small, means the world to us!",
+      "destination": "Tokyo & Kyoto, Japan",
+      "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=400&fit=crop"
+    },
+    "faqs": [
+      {
+        "category": "Wedding Details",
+        "icon": "HelpCircle",
+        "questions": [
+          {
+            "question": "What time should I arrive?",
+            "answer": "Please arrive by 2:30 PM. The ceremony will begin promptly at 3:00 PM. We recommend arriving 30 minutes early to find parking and get seated comfortably."
+          },
+          {
+            "question": "What is the dress code?",
+            "answer": "We've requested formal/black-tie optional attire. We encourage elegant wear in garden-friendly footwear as parts of our celebration will be outdoors on grass and pathways."
+          },
+          {
+            "question": "Will the ceremony be indoors or outdoors?",
+            "answer": "Our ceremony will be held outdoors in the beautiful garden setting at Sunset Garden Estate. Don't worry - we have a covered backup plan in case of inclement weather!"
+          }
+        ]
+      }
+    ],
+    "theme": "classic",
+    "created_at": "2025-09-18T19:17:38.849399",
+    "updated_at": "2025-10-10T09:51:22.518944",
+    "shareable_id": "7703da81",
+    "important_info": {
+      "dress_code": {
+        "title": "Dress Code",
+        "description": "Formal/Black Tie Optional. We encourage eleganeeet attire in garden-friendly footwear.",
+        "enabled": true
+      }
+    },
+    "special_roles": [
+      {
+        "id": "sr_test_001",
+        "name": "Test Flower Girljj",
+        "designation": "Flower Girl",
+        "role": "Flower Girl",
+        "description": "Adorable",
+        "photo": "https://via.placeholder.com/400/FFD700/FFFFFF?text=FG",
+        "image": "https://via.placeholder.com/400/FFD700/FFFFFF?text=FG"
+      },
+      {
+        "id": "1759762312595",
+        "name": "kk",
+        "designation": "kk",
+        "role": "kk",
+        "description": "kk",
+        "photo": "https://imgs.search.brave.com/gAGetR-OqKpNlDRPPpvXga-sxXqwF3g0KN4ZEepvkU0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9UVTJZbU01/WmpjdE9HVmxNQzAw/WVRjekxUbGpNMk10/WWpobE5HSTVZV015/WmpGa1hrRXlYa0Zx/Y0djQC5qcGc",
+        "image": "https://imgs.search.brave.com/gAGetR-OqKpNlDRPPpvXga-sxXqwF3g0KN4ZEepvkU0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9UVTJZbU01/WmpjdE9HVmxNQzAw/WVRjekxUbGpNMk10/WWpobE5HSTVZV015/WmpGa1hrRXlYa0Zx/Y0djQC5qcGc"
+      },
+      {
+        "id": "89dfed15-b419-4a8a-b341-393fc15d9a89",
+        "name": "Lily Chen",
+        "designation": "Flower Girl",
+        "role": "Niece",
+        "description": "Emily's adorable 7-year-old niece who will sprinkle rose petals down the aisle with the biggest smile.",
+        "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=300&fit=crop",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&h=300&fit=crop"
+      }
+    ],
+    "gallery_category": "travel",
+    "gallery_description": "",
+    "gallery_event_message": "",
+    "gallery_title": "Beach Getaway",
+    "gallery_url": "",
+    "guestbook_messages": [
+      {
+        "id": "66bc9208-28b5-4826-b1ae-0b6f8297afbf",
+        "name": "Test Guest",
+        "relationship": "Friend",
+        "message": "Congratulations on your wedding!",
+        "created_at": "2025-10-08T10:15:17.037172"
+      },
+      {
+        "id": "1724edc2-b1a6-4c9a-bdf6-a9ab492d2ca0",
+        "name": "Sarah Johnson",
+        "relationship": "Best Friend",
+        "message": "Wishing you both a lifetime of happiness! \ud83d\udc95",
+        "created_at": "2025-10-08T10:19:30.291658"
+      },
+      {
+        "id": "9d2bd8e1-710a-4e6e-96ff-d46a83e33088",
+        "name": "Michael Chen",
+        "relationship": "College Friend",
+        "message": "So excited to celebrate this special day with you! \ud83c\udf89",
+        "created_at": "2025-10-08T10:19:30.750441"
+      },
+      {
+        "id": "f8fcd73d-4705-413f-9541-f70630fc7877",
+        "name": "Integration Tester Classic",
+        "relationship": "Test Friend",
+        "message": "Testing integration with classic theme! \ud83c\udfa8",
+        "created_at": "2025-10-08T10:19:38.732975"
+      },
+      {
+        "id": "cd671319-8f9a-46a6-b457-c41360335b21",
+        "name": "Integration Tester Modern",
+        "relationship": "Test Friend",
+        "message": "Testing integration with modern theme! \ud83c\udfa8",
+        "created_at": "2025-10-08T10:19:40.104415"
+      },
+      {
+        "id": "85c7bdef-0560-4eb1-bfd9-8f328f33d09e",
+        "name": "Integration Tester Boho",
+        "relationship": "Test Friend",
+        "message": "Testing integration with boho theme! \ud83c\udfa8",
+        "created_at": "2025-10-08T10:19:41.490530"
+      },
+      {
+        "id": "1f7784ed-e6a4-4b11-85b4-2091f8023593",
+        "name": "Integration Tester Classic",
+        "relationship": "Test Friend",
+        "message": "Testing integration with classic theme! \ud83c\udfa8",
+        "created_at": "2025-10-08T10:19:42.859772"
+      },
+      {
+        "id": "140471a8-de64-42d3-b52e-020164e55ac5",
+        "name": "Prasanna Patil",
+        "relationship": "ere",
+        "message": "happy",
+        "created_at": "2025-10-08T11:01:23.994926"
+      }
+    ],
+    "generated_themes": [
+      {
+        "id": "ai_8e180a39",
+        "name": "batman",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T15:42:47.472937",
+        "user_prompt": "get me weddingcard inspired by batman , dark knight film series",
+        "theme_data": {
+          "primary": "#1A1A1A",
+          "secondary": "#EAEAEA",
+          "accent": "#2C3E50",
+          "text": "#333333",
+          "textLight": "#444444",
+          "background": "#F8F8F8",
+          "gradientPrimary": "linear-gradient(135deg, #F8F8F8 0%, #EAEAEA 100%)",
+          "gradientAccent": "linear-gradient(135deg, #2C3E50 0%, #4D6D8F 100%)",
+          "fontPrimary": "'Playfair Display', serif",
+          "fontSecondary": "'Open Sans', sans-serif",
+          "description": "A sophisticated 'Dark Knight' theme, blending deep charcoals and muted navy with elegant typography, evoking Gotham's dramatic aesthetic for a truly cinematic wedding."
+        }
+      },
+      {
+        "id": "ai_16f149c5",
+        "name": "Burgundy Elegance",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T16:16:09.769933",
+        "user_prompt": "Create a rich, elegant theme with deep burgundy (#800020, #8B0000, #722F37) and wine red tones (#9B1B30, #A52A2A). Background should be very light ivory or cream (#FFFFF0, #FFFEF7, #FAF0E6). Primary heading color should be deep burgundy or maroon (#800020, #5D001E) for strong contrast. Text must be dark brown or charcoal (#3E2723, #2C1810, #1A1A1A) for readability on light backgrounds. Accent color should be dark gold or bronze (#B8860B, #CD7F32, #996515) for buttons and highlights. Secondary color should be soft ivory (#FFFFF0, #FFF8DC). Use classic serif font like 'Libre Baskerville', 'Crimson Text', or 'Playfair Display' for headings, and elegant sans-serif like 'Source Sans Pro' or 'Lato' for body text. Gradients should be ivory-to-cream for backgrounds, burgundy-to-gold for buttons. The aesthetic should feel sophisticated, timeless, luxurious, and refined - perfect for a fall or winter formal wedding with rich wine colors and golden accents.",
+        "theme_data": {
+          "primary": "#5D001E",
+          "secondary": "#FFF8DC",
+          "accent": "#B8860B",
+          "text": "#3E2723",
+          "textLight": "#756A67",
+          "background": "#FFFFF0",
+          "gradientPrimary": "linear-gradient(135deg, #FFFFF0 0%, #FFF8DC 100%)",
+          "gradientAccent": "linear-gradient(135deg, #5D001E 0%, #B8860B 100%)",
+          "fontPrimary": "'Playfair Display', serif",
+          "fontSecondary": "'Lato', sans-serif",
+          "description": "A sophisticated and luxurious theme evoking a formal fall or winter wedding, combining deep wine-reds and rich golden accents with a soft ivory backdrop for timeless elegance."
+        }
+      },
+      {
+        "id": "ai_08054d92",
+        "name": "Burgundy Elegance",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T16:16:57.625261",
+        "user_prompt": "Create a rich, elegant theme with deep burgundy (#800020, #8B0000, #722F37) and wine red tones (#9B1B30, #A52A2A). Background should be very light ivory or cream (#FFFFF0, #FFFEF7, #FAF0E6). Primary heading color should be deep burgundy or maroon (#800020, #5D001E) for strong contrast. Text must be dark brown or charcoal (#3E2723, #2C1810, #1A1A1A) for readability on light backgrounds. Accent color should be dark gold or bronze (#B8860B, #CD7F32, #996515) for buttons and highlights. Secondary color should be soft ivory (#FFFFF0, #FFF8DC). Use classic serif font like 'Libre Baskerville', 'Crimson Text', or 'Playfair Display' for headings, and elegant sans-serif like 'Source Sans Pro' or 'Lato' for body text. Gradients should be ivory-to-cream for backgrounds, burgundy-to-gold for buttons. The aesthetic should feel sophisticated, timeless, luxurious, and refined - perfect for a fall or winter formal wedding with rich wine colors and golden accents.",
+        "theme_data": {
+          "primary": "#5D001E",
+          "secondary": "#FFF8DC",
+          "accent": "#B8860B",
+          "text": "#2C1810",
+          "textLight": "#6C5B5A",
+          "background": "#FAF0E6",
+          "gradientPrimary": "linear-gradient(135deg, #FAF0E6 0%, #FFF8DC 100%)",
+          "gradientAccent": "linear-gradient(135deg, #5D001E 0%, #B8860B 100%)",
+          "fontPrimary": "'Playfair Display', serif",
+          "fontSecondary": "'Lato', sans-serif",
+          "description": "This theme evokes a rich, luxurious elegance with deep maroon and golden accents, set against a soft ivory backdrop. It's sophisticated, timeless, and perfect for a formal fall or winter celebration."
+        }
+      },
+      {
+        "id": "ai_460ffb07",
+        "name": "interstellar",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T16:17:56.128782",
+        "user_prompt": "design inspired by insterstellar movie",
+        "theme_data": {
+          "primary": "#E6F0F7",
+          "secondary": "#1B2B40",
+          "accent": "#80CEE1",
+          "text": "#F0F4F8",
+          "textLight": "#ADB6C2",
+          "background": "#0F1A2F",
+          "gradientPrimary": "linear-gradient(135deg, #0F1A2F 0%, #1B2B40 100%)",
+          "gradientAccent": "linear-gradient(135deg, #3C7082 0%, #80CEE1 100%)",
+          "fontPrimary": "'Poppins', sans-serif",
+          "fontSecondary": "'Open Sans', sans-serif",
+          "description": "This theme evokes the vast, mysterious beauty of deep space, combining dark cosmic hues with shimmering accents for an elegant, modern, and awe-inspiring celestial celebration."
+        }
+      },
+      {
+        "id": "ai_1760029148021_m53ipun35",
+        "name": "Lavender Dreams",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T16:59:08.021Z",
+        "user_prompt": "Soft lavender and purple tones with cream for a magical feel",
+        "theme_data": {
+          "primary": "#4A0E4E",
+          "secondary": "#F5F0FA",
+          "accent": "#9D4EDD",
+          "text": "#2D132C",
+          "textLight": "#6E4C6F",
+          "background": "#FFFCFF",
+          "gradientPrimary": "linear-gradient(135deg, #F5F0FA 0%, #FFFCFF 100%)",
+          "gradientAccent": "linear-gradient(135deg, #9D4EDD 0%, #C77DFF 100%)",
+          "fontPrimary": "'Great Vibes', cursive",
+          "fontSecondary": "'Raleway', sans-serif",
+          "description": "Magical ethereal theme with lavender and purple perfect for fairy tale weddings"
+        }
+      },
+      {
+        "id": "ai_1760029244567_q89ong45v",
+        "name": "Rustic Wildflower",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T17:00:44.567Z",
+        "user_prompt": "Terracotta, dusty rose, and mustard for a bohemian meadow vibe",
+        "theme_data": {
+          "primary": "#8B4513",
+          "secondary": "#FAF0E6",
+          "accent": "#DAA520",
+          "text": "#3E2723",
+          "textLight": "#8D6E63",
+          "background": "#FFF8DC",
+          "gradientPrimary": "linear-gradient(135deg, #FAF0E6 0%, #FFF8DC 100%)",
+          "gradientAccent": "linear-gradient(135deg, #D2691E 0%, #DAA520 100%)",
+          "fontPrimary": "'Dancing Script', cursive",
+          "fontSecondary": "'Josefin Sans', sans-serif",
+          "description": "Organic bohemian theme with terracotta and wildflower colors perfect for rustic outdoor weddings"
+        }
+      },
+      {
+        "id": "ai_84481539",
+        "name": "interstellar",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T17:05:13.692581",
+        "user_prompt": "design with inspiration on interstellar",
+        "theme_data": {
+          "primary": "#f0f2f5",
+          "secondary": "#1b1f31",
+          "accent": "#bf8e42",
+          "text": "#e0e0e0",
+          "textLight": "#b0b0b0",
+          "background": "#0b0c10",
+          "gradientPrimary": "linear-gradient(135deg, #0b0c10 0%, #1b1f31 100%)",
+          "gradientAccent": "linear-gradient(135deg, #bf8e42 0%, #e6b96e 100%)",
+          "fontPrimary": "'Cinzel', serif",
+          "fontSecondary": "'Inter', sans-serif",
+          "description": "An ethereal and grand theme inspired by the cosmos, featuring deep midnight blues, shimmering golds, and celestial elegance for a truly unforgettable celebration."
+        }
+      },
+      {
+        "id": "ai_2faff623",
+        "name": "KGF",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T17:42:08.352859",
+        "user_prompt": "design inspired by KGF kannada file",
+        "theme_data": {
+          "primary": "#E0B96B",
+          "secondary": "#2C2C2C",
+          "accent": "#CDA340",
+          "text": "#F5F5F5",
+          "textLight": "#C0C0C0",
+          "background": "#1A1A1A",
+          "gradientPrimary": "linear-gradient(135deg, #1A1A1A 0%, #252525 100%)",
+          "gradientAccent": "linear-gradient(135deg, #CDA340 0%, #E0B96B 100%)",
+          "fontPrimary": "'Cinzel Decorative', serif",
+          "fontSecondary": "'Lato', sans-serif",
+          "description": "An opulent and dramatic wedding theme inspired by the grandeur of KGF, blending dark, rich charcoals with lavish gold accents and a powerful, vintage aesthetic."
+        }
+      },
+      {
+        "id": "ai_1760031740568_5giul109n",
+        "name": "Burgundy Elegance",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T17:42:20.568Z",
+        "user_prompt": "Rich burgundy with soft ivory for sophisticated fall elegance",
+        "theme_data": {
+          "primary": "#800020",
+          "secondary": "#FFFFF0",
+          "accent": "#B8860B",
+          "text": "#2C1810",
+          "textLight": "#795548",
+          "background": "#FFFEF7",
+          "gradientPrimary": "linear-gradient(135deg, #FFFFF0 0%, #FFFEF7 100%)",
+          "gradientAccent": "linear-gradient(135deg, #800020 0%, #B8860B 100%)",
+          "fontPrimary": "'Playfair Display', serif",
+          "fontSecondary": "'Lato', sans-serif",
+          "description": "Sophisticated luxurious theme with burgundy and gold perfect for fall and winter formal weddings"
+        }
+      },
+      {
+        "id": "ai_1760031907446_fg877uv68",
+        "name": "Pink & Cream Romance",
+        "type": "ai_generated",
+        "created_at": "2025-10-09T17:45:07.446Z",
+        "user_prompt": "Soft pink and blush tones with warm cream and gold accents for a dreamy, romantic aesthetic",
+        "theme_data": {
+          "primary": "#C41E3A",
+          "secondary": "#FFF0F5",
+          "accent": "#FFD700",
+          "text": "#2C1810",
+          "textLight": "#8B7D7B",
+          "background": "#FFFAFA",
+          "gradientPrimary": "linear-gradient(135deg, #FFF0F5 0%, #FFFAFA 100%)",
+          "gradientAccent": "linear-gradient(135deg, #FFB6C1 0%, #FFD700 100%)",
+          "fontPrimary": "'Playfair Display', serif",
+          "fontSecondary": "'Lato', sans-serif",
+          "description": "Dreamy romantic theme with soft pink, cream, and gold accents perfect for spring or summer weddings"
+        }
+      }
+    ],
+    "active_theme_data": {
+      "primary": "#C41E3A",
+      "secondary": "#FFF0F5",
+      "accent": "#FFD700",
+      "text": "#2C1810",
+      "textLight": "#8B7D7B",
+      "background": "#FFFAFA",
+      "gradientPrimary": "linear-gradient(135deg, #FFF0F5 0%, #FFFAFA 100%)",
+      "gradientAccent": "linear-gradient(135deg, #FFB6C1 0%, #FFD700 100%)",
+      "fontPrimary": "'Playfair Display', serif",
+      "fontSecondary": "'Lato', sans-serif",
+      "description": "Dreamy romantic theme with soft pink, cream, and gold accents perfect for spring or summer weddings"
+    }
+  }
+}
